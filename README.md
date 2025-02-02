@@ -4,8 +4,7 @@
 ## File uploading
 
 Dear student, in this task you should upload data from `Profile.txt` file, parse and map on class `Profile` **using only `java.io` assets.
-Using other options for uploading are prohibited. For other purposes you can use only what you have already studied
-from previous stages and modules.**
+Using other options for uploading are prohibited. For other purposes you can use only what you have already studied from previous stages and modules.**
 
 Example of `Profile.txt` in the folder `resources` with profile data:
 
